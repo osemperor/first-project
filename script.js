@@ -1,8 +1,12 @@
 let a =5
 let b= 6
-function as(){
+function as() {
     let a =5
-    return a;
+    console.log(a)
 
 }
 let v = 5;
+console.log(as)
+console.log(v)
+as()
+
