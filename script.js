@@ -5,3 +5,4 @@ function as(){
     return a;
 
 }
+let v = 5;
